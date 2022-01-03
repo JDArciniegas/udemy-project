@@ -5,7 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../react-flats/src/components/Flat.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/App.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDate.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/vcs.xml" beforeDir="false" />
@@ -26,6 +26,9 @@
       <change beforePath="$PROJECT_DIR$/../giphy-api/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/giphy-api.iml" beforeDir="false" />
@@ -92,7 +95,10 @@
       <workItem from="1640888217267" duration="940000" />
       <workItem from="1640889172469" duration="4000" />
       <workItem from="1640890898721" duration="1057000" />
-      <workItem from="1641005227924" duration="4028000" />
+      <workItem from="1641005227924" duration="4106000" />
+      <workItem from="1641148853869" duration="307000" />
+      <workItem from="1641162184539" duration="926000" />
+      <workItem from="1641184071307" duration="947000" />
     </task>
     <servers />
   </component>
