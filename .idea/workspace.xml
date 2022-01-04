@@ -5,7 +5,11 @@
       <change afterPath="$PROJECT_DIR$/../react-flats/src/components/Flat.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/App.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/vcs.xml" beforeDir="false" />
@@ -28,7 +32,10 @@
       <change beforePath="$PROJECT_DIR$/../giphy-api/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseDate.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/giphy-api.iml" beforeDir="false" />
@@ -82,6 +89,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Expenses" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,7 +110,8 @@
       <workItem from="1641005227924" duration="4106000" />
       <workItem from="1641148853869" duration="307000" />
       <workItem from="1641162184539" duration="926000" />
-      <workItem from="1641184071307" duration="947000" />
+      <workItem from="1641184071307" duration="4914000" />
+      <workItem from="1641269766163" duration="892000" />
     </task>
     <servers />
   </component>
@@ -115,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
