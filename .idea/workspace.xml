@@ -5,11 +5,6 @@
       <change afterPath="$PROJECT_DIR$/../react-flats/src/components/Flat.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/App.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-flats/src/stylesheets/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../giphy-api/.idea/vcs.xml" beforeDir="false" />
@@ -32,10 +27,8 @@
       <change beforePath="$PROJECT_DIR$/../giphy-api/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseDate.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expenses.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../untitled/.idea/giphy-api.iml" beforeDir="false" />
@@ -111,7 +104,8 @@
       <workItem from="1641148853869" duration="307000" />
       <workItem from="1641162184539" duration="926000" />
       <workItem from="1641184071307" duration="4914000" />
-      <workItem from="1641269766163" duration="892000" />
+      <workItem from="1641269766163" duration="2999000" />
+      <workItem from="1641350325062" duration="6769000" />
     </task>
     <servers />
   </component>
